@@ -1,9 +1,3 @@
-
-ChatGPT
-Certainly! Below is a basic template for your GitHub readme file based on the details you provided. Feel free to customize it further as needed:
-
-markdown
-Copy code
 # Sentiment Analysis of Amazon Product Reviews
 
 ## Dataset
