@@ -1,7 +1,7 @@
 # Sentiment Analysis of Amazon Product Reviews
 
 ## Dataset
-The dataset used for this project is available ([(https://drive.google.com/drive/folders/15KzLnueDDomP6dPXj52QfhGEgNosyiiK?usp=sharing)]). It is used to classify Amazon product reviews into three classes: positive, negative, and neutral.
+The dataset used for this project is available (https://drive.google.com/drive/folders/15KzLnueDDomP6dPXj52QfhGEgNosyiiK?usp=sharing). It is used to classify Amazon product reviews into three classes: positive, negative, and neutral.
 
 ## Usage
 Amazon product reviews play a crucial role in understanding customer sentiments and preferences. This project aims to analyze and classify these reviews into different sentiment categories to extract valuable insights.
